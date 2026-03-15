@@ -1,2 +1,3 @@
+Plaintext judul isi requirements.txt dan copy paste di text tersebut dengan :
 streamlit
 pandas
